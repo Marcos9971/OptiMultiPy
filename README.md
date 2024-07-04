@@ -1,0 +1,2 @@
+# OptiMultiPy
+Biblioteca de otimização 
